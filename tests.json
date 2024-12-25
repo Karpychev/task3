@@ -1,0 +1,18 @@
+{
+    "tests": [
+        {
+            "id": "test1",
+            "name": "Test 1"
+        },
+        {
+            "id": "test2",
+            "name": "Test 2",
+            "subtests": [
+                {
+                    "id": "test3",
+                    "name": "Subtest 1"
+                }
+            ]
+        }
+    ]
+}
